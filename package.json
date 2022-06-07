@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-setup",
+  "version": "1.0.0",
+  "description": "Node.js Setup using Express, HTML, CSS, JS & EJS for beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiduy1998/Node.js-Begin-Setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiduy1998/Node.js-Begin-Setup/issues"
+  },
+  "homepage": "https://github.com/maiduy1998/Node.js-Begin-Setup#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.5.1",
+    "ws": "^8.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
