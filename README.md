@@ -1,5 +1,5 @@
 
-# nodemon,Express,EJS SETUP 
+# nodemon,Express,EJS SETUP :   https://www.youtube.com/watch?v=A01KtJTv1oc&list=LL&index=5
 
 
 # Cấu trúc file cơ bản của 1 PROJECT
